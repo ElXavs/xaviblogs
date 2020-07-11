@@ -5,9 +5,9 @@ Un blog para el curso de Git y Github
 
 > - Paco el chato
 
-##Durante este curso he aprendido pero si un monton:
--y en super poquito tiempo, ademas
--incluso aprendi como funciona git en mac
--mis camaradas dieron muchos aportes y ayuda en los comentarios
+## Durante este curso he aprendido pero si un monton:
+* Y en super poquito tiempo, ademas
+* Incluso aprendi como funciona git en mac
+* Mis camaradas dieron muchos aportes y ayuda en los comentarios
 
 Como recordatorio, este README.md no es algo realmente importante para este proyecto solo estoy aprendiendo a usarlo.
