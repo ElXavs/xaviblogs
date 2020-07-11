@@ -6,5 +6,6 @@ Un blog para el curso de Git y Github
 > - Paco el chato
 
 ##Durante este curso he aprendido pero si un monton
+*y en super poquito tiempo, ademas
 
 Como recordatorio, este README.md no es algo realmente importante para este proyecto solo estoy aprendiendo a usarlo.
