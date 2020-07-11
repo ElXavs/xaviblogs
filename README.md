@@ -7,5 +7,7 @@ Un blog para el curso de Git y Github
 
 ##Durante este curso he aprendido pero si un monton
 *y en super poquito tiempo, ademas
+*incluso aprendi como funciona git en mac
+*mis camaradas dieron muchos aportes y ayuda en los comentarios
 
 Como recordatorio, este README.md no es algo realmente importante para este proyecto solo estoy aprendiendo a usarlo.
